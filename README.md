@@ -6,6 +6,7 @@ Following is sample outputs on NSO 6.7 with bgpmgr pacakge.
 # Tools
 <details>
 <summary> Click to expand </summary>
+  
 ```
 {
   "id": 1,
