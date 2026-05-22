@@ -9279,6 +9279,7 @@ Following is sample outputs on NSO 6.7 with bgpmgr pacakge.
   }
 }
 ```
+</details>
 
 # Resources
 <details>
@@ -9326,6 +9327,7 @@ Following is sample outputs on NSO 6.7 with bgpmgr pacakge.
   }
 }
 ```
+</details>
 
 # Resources/templates
 <details>
@@ -9390,4 +9392,5 @@ Following is sample outputs on NSO 6.7 with bgpmgr pacakge.
   }
 }
 ```
+</details>
 
