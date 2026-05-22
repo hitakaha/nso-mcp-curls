@@ -1,9 +1,11 @@
-# nso-mcp-curls
+# CURL Scripts for NSO MCP
 Sample curl scripts to get Tools/Prompts/Resources from NSO MCP server.
-Following is sample output on NSO 6.7 with bgpmgr pacakge.
+Following is sample outputs on NSO 6.7 with bgpmgr pacakge.
 
 
 # Tools
+<details>
+<summary> Click to expand </summary>
 ```
 {
   "id": 1,
@@ -9118,6 +9120,7 @@ Following is sample output on NSO 6.7 with bgpmgr pacakge.
   }
 }
 ```
+</details>
 
 # Prompts
 ```
